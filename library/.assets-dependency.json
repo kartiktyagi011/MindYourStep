@@ -1,0 +1,96 @@
+{
+  "uuid": {
+    "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\helmet.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\body.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\body.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\helmet.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ]
+  },
+  "path": {
+    "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocos_mesh.gltf": [
+      "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocosfinish_01.bin"
+    ],
+    "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocos_mesh_helmet.gltf": [
+      "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocosfinish_02.bin"
+    ],
+    "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_attack.gltf": [
+      "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_attack.bin"
+    ],
+    "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_hurt.gltf": [
+      "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_hurt.bin"
+    ],
+    "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_shoot.gltf": [
+      "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_shoot.bin"
+    ],
+    "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_walk.gltf": [
+      "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_walk.bin"
+    ],
+    "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocos_skel.gltf": [
+      "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocos_skel_ibm.bin"
+    ],
+    "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_idle.gltf": [
+      "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_idle.bin"
+    ],
+    "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_jump.gltf": [
+      "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_jump.bin"
+    ],
+    "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_die.gltf": [
+      "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_die.bin"
+    ],
+    "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_down.gltf": [
+      "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_down.bin"
+    ],
+    "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_run.gltf": [
+      "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_run.bin"
+    ],
+    "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_squat.gltf": [
+      "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_squat.bin"
+    ],
+    "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocos_mesh_helmet.gltf": [
+      "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocosfinish_02.bin"
+    ],
+    "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocos_mesh.gltf": [
+      "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocosfinish_01.bin"
+    ],
+    "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_die.gltf": [
+      "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_die.bin"
+    ],
+    "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_down.gltf": [
+      "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_down.bin"
+    ],
+    "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_hurt.gltf": [
+      "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_hurt.bin"
+    ],
+    "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_idle.gltf": [
+      "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_idle.bin"
+    ],
+    "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_jump.gltf": [
+      "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_jump.bin"
+    ],
+    "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_run.gltf": [
+      "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_run.bin"
+    ],
+    "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_shoot.gltf": [
+      "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_shoot.bin"
+    ],
+    "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_squat.gltf": [
+      "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_squat.bin"
+    ],
+    "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_walk.gltf": [
+      "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_walk.bin"
+    ],
+    "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocos_skel.gltf": [
+      "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocos_skel_ibm.bin"
+    ],
+    "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_attack.gltf": [
+      "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_attack.bin"
+    ]
+  }
+}

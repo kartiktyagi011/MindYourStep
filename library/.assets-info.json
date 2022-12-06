@@ -1,0 +1,802 @@
+{
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\Scene.meta": {
+    "time": 1652270409141.8914
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\Scene": {
+    "time": 1652274759370.2925,
+    "uuid": "d9fce95a-03ed-4181-b503-2dfc1542f15c",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\Scene\\newscene.scene.meta": {
+    "time": 1652270442475.3286
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\Scene\\newscene.scene": {
+    "time": 1652270442468.9336,
+    "uuid": "217dfd74-9e17-4396-8416-7aa6bf033204",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\Script.meta": {
+    "time": 1652270744088.5977
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\Script": {
+    "time": 1652271721419.7202,
+    "uuid": "6d25437a-46c1-42dd-8d0b-59e245f3aa3f",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\Script\\PlayerController.ts.meta": {
+    "time": 1652270780380.5332
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\Script\\PlayerController.ts": {
+    "time": 1652332401695.6096,
+    "uuid": "1f7d1ae7-8420-4474-ac84-772146be6ae5",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\Annimation.meta": {
+    "time": 1652271139504.343
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\Annimation": {
+    "time": 1652332026299.7756,
+    "uuid": "c02a1417-98b3-4961-aef7-2f6bc682a75b",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\Prefebs.meta": {
+    "time": 1652271663441.2754
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\Prefebs": {
+    "time": 1652271668362.7847,
+    "uuid": "e45c3943-8269-41af-89dc-29fcf1b04f92",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\Prefebs\\Cube.prefab.meta": {
+    "time": 1652271668367.7424
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\Prefebs\\Cube.prefab": {
+    "time": 1652271668365.7493,
+    "uuid": "07d66d21-90ae-422f-baeb-9fd621e83cd6",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\Script\\GameManager.ts.meta": {
+    "time": 1652271721423.7092
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\Script\\GameManager.ts": {
+    "time": 1652337070855.0095,
+    "uuid": "1a62ac46-afd9-40f0-9aa2-9ff4bd0139f3",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\Scene\\Scene1.scene.meta": {
+    "time": 1652270525765.8318
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\Scene\\Scene1.scene": {
+    "time": 1670314081010.3867,
+    "uuid": "35174472-cccc-4db0-853a-704af66755d4",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\Annimation\\twoStep.anim.meta": {
+    "time": 1652331672417.9014
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\Annimation\\twoStep.anim": {
+    "time": 1652331733961.522,
+    "uuid": "297fdab2-c424-4430-88f4-a51d78424701",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\Annimation\\oneStep.anim.meta": {
+    "time": 1652332026305.799
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\Annimation\\oneStep.anim": {
+    "time": 1652332103551.5674,
+    "uuid": "0291a4d5-70ad-4198-a0db-236f00f0a7ef",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos.meta": {
+    "time": 1652333718950.875
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocosfinish_01_occlusionRoughnessMetallic.png.meta": {
+    "time": 1652333718987.775
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocosfinish_02.bin.meta": {
+    "time": 1652333718965.8347
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocosfinish_02_baseColor.png.meta": {
+    "time": 1652333718986.7769
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocosfinish_02_normal.png.meta": {
+    "time": 1652333718991.7646
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocosfinish_02_occlusionRoughnessMetallic.png.meta": {
+    "time": 1652333718996.7563
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\helmet.mtl.meta": {
+    "time": 1652333718997.7485
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos": {
+    "time": 1652333719164.4363,
+    "uuid": "6338d8e2-40d0-4ea2-91e8-7589a91201ff",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocosfinish_02.bin": {
+    "time": 1652333685051.2798,
+    "uuid": "dcab7d1f-201e-45d8-911c-833cc5427723",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocosfinish_02_baseColor.png": {
+    "time": 1652333685084.1958,
+    "uuid": "8949c1f1-9b2b-418c-b150-611a94543416",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocosfinish_01_occlusionRoughnessMetallic.png": {
+    "time": 1652333685019.3035,
+    "uuid": "64b1edbd-75c7-4159-a65a-f1e6d8c9812a",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocosfinish_02_normal.png": {
+    "time": 1652333685143.0374,
+    "uuid": "19819162-ce3f-4f7c-8889-8b2f35bf274c",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocosfinish_02_occlusionRoughnessMetallic.png": {
+    "time": 1652333685195.262,
+    "uuid": "cd618de5-59fc-4899-ba4f-55195f3e24ce",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\helmet.mtl": {
+    "time": 1652333718970.8208,
+    "uuid": "7e81a899-6c7c-493d-80cf-e4f730e4f48f",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations.meta": {
+    "time": 1652333684648.0007
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\body.mtl.meta": {
+    "time": 1652333719219.4192
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\Cocos.prefab.meta": {
+    "time": 1652333719419.884
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocosfinish_01.bin.meta": {
+    "time": 1652333719222.4119
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocosfinish_01_baseColor.png.meta": {
+    "time": 1652333719447.8086
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocosfinish_01_emissive.png.meta": {
+    "time": 1652333719399.936
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocosfinish_01_normal.png.meta": {
+    "time": 1652333719441.8252
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocos_mesh.gltf.meta": {
+    "time": 1652333719445.8137
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocos_mesh_helmet.gltf.meta": {
+    "time": 1652333719479.7224
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocos_skel.gltf.meta": {
+    "time": 1652333719483.7134
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocos_skel_ibm.bin.meta": {
+    "time": 1652333719461.7708
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocos_squat_anim.bin.meta": {
+    "time": 1652333719481.7188
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_attack.bin.meta": {
+    "time": 1652333719488.6992
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_attack.gltf.meta": {
+    "time": 1652333719694.1494
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_die.bin.meta": {
+    "time": 1652333719525.6006
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_die.gltf.meta": {
+    "time": 1652333719729.0564
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_down.bin.meta": {
+    "time": 1652333719582.447
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_down.gltf.meta": {
+    "time": 1652333719731.0508
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_hurt.bin.meta": {
+    "time": 1652333719695.1472
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_hurt.gltf.meta": {
+    "time": 1652333719791.8882
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_idle.bin.meta": {
+    "time": 1652333719762.965
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_idle.gltf.meta": {
+    "time": 1652333719885.6377
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_jump.bin.meta": {
+    "time": 1652333719786.9006
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_jump.gltf.meta": {
+    "time": 1652333719919.546
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_run.bin.meta": {
+    "time": 1652333719846.7402
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_run.gltf.meta": {
+    "time": 1652333719943.4832
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_shoot.bin.meta": {
+    "time": 1652333719882.6448
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_shoot.gltf.meta": {
+    "time": 1652333720037.2307
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_squat.bin.meta": {
+    "time": 1652333719966.42
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_squat.gltf.meta": {
+    "time": 1652333720048.202
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_walk.bin.meta": {
+    "time": 1652333719969.4138
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_walk.gltf.meta": {
+    "time": 1652333720088.095
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations": {
+    "time": 1652333719160.4473,
+    "uuid": "75b08e51-53d1-4bca-b3de-ad7713d25d2c",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\body.mtl": {
+    "time": 1652333719205.4575,
+    "uuid": "58cf3db3-e6f4-4943-a076-26157912429c",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocosfinish_01.bin": {
+    "time": 1652333684868.3926,
+    "uuid": "b3df5b21-2fe6-410e-a10d-3df317e61bb5",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocosfinish_01_emissive.png": {
+    "time": 1652333684936.2014,
+    "uuid": "026c4a15-e07d-4053-86de-9f9fe30188e5",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\Cocos.prefab": {
+    "time": 1652333719399.936,
+    "uuid": "6cd4e8c1-b63f-4bbb-b3db-b323fa08b435",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocosfinish_01_normal.png": {
+    "time": 1652333684979.0984,
+    "uuid": "3af9be2f-93d2-41a0-b7b7-3cc03054b34a",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocos_mesh.gltf": {
+    "time": 1652333684699.755,
+    "uuid": "5bee9f0c-9771-4e73-b0ea-0bbb6da67698",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocosfinish_01_baseColor.png": {
+    "time": 1652333684906.2515,
+    "uuid": "5f4dd798-2ae6-4bbf-84b4-504bb6cceaed",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocos_skel_ibm.bin": {
+    "time": 1652333684799.2424,
+    "uuid": "8d2d3098-6841-41fc-af7f-4bac9e32b080",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocos_mesh_helmet.gltf": {
+    "time": 1652333684733.6907,
+    "uuid": "fb9825a0-fd7f-48c5-b121-9af90f9f2011",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocos_squat_anim.bin": {
+    "time": 1652333684834.4602,
+    "uuid": "b9ab6374-4e67-4db2-bb75-0256c62f6c7b",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\cocos_skel.gltf": {
+    "time": 1652333684768.7405,
+    "uuid": "90f86573-5baf-41e2-97db-8604d1f42b65",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_attack.bin": {
+    "time": 1652333685271.5854,
+    "uuid": "73443895-6d8f-41b5-8e3f-4110d0f4dc31",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_die.bin": {
+    "time": 1652333685345.6711,
+    "uuid": "d1a7cd09-b5d9-422f-a4f3-112d85f1059c",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_down.bin": {
+    "time": 1652333685421.3254,
+    "uuid": "fe407fd3-1b9c-4fb7-9a97-edb4cdae6314",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_attack.gltf": {
+    "time": 1652333685309.896,
+    "uuid": "a873a742-b503-4a96-8570-6fe542697035",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_hurt.bin": {
+    "time": 1652333685485.5757,
+    "uuid": "a1efb6ff-ef74-4037-8801-d310eca22fd5",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_die.gltf": {
+    "time": 1652333685383.426,
+    "uuid": "caf172df-03b7-4c5a-8a53-93f3e4be5146",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_down.gltf": {
+    "time": 1652333685455.2354,
+    "uuid": "27ac412c-9efa-4ead-8e2c-fe6533c7878f",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_idle.bin": {
+    "time": 1652333685554.2415,
+    "uuid": "e9d41da7-da95-4119-8a6c-0937de2adb57",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_jump.bin": {
+    "time": 1652333685621.0632,
+    "uuid": "33a7dcc9-4eed-4d49-baac-d190c3d2a157",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_hurt.gltf": {
+    "time": 1652333685521.306,
+    "uuid": "cb2cc463-6e7a-4d17-9247-bea8f3cf7bb1",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_run.bin": {
+    "time": 1652333685686.1033,
+    "uuid": "f1d8a0c8-d2d8-473f-a769-803842978f68",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_shoot.bin": {
+    "time": 1652333685750.8887,
+    "uuid": "a9e047be-e87a-43d9-bbd5-1b3f5dbe2026",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_idle.gltf": {
+    "time": 1652333685588.1497,
+    "uuid": "445d5d9d-c56b-4528-bc90-c847357e5d94",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_jump.gltf": {
+    "time": 1652333685654.952,
+    "uuid": "501da3c5-f2d8-45f7-bc04-5130d58811ff",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_run.gltf": {
+    "time": 1652333685719.346,
+    "uuid": "50735e20-7211-4e9c-b676-4d648cdc0cbb",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_squat.bin": {
+    "time": 1652333685817.7124,
+    "uuid": "7290f264-a898-4355-8041-8514dbd0051f",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_walk.bin": {
+    "time": 1652333685892.327,
+    "uuid": "e08b2140-55f5-4d1f-af55-565183504a80",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_shoot.gltf": {
+    "time": 1652333685785.796,
+    "uuid": "1cf73293-3e10-49c1-bfa1-59daaadbd18b",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_squat.gltf": {
+    "time": 1652333685860.502,
+    "uuid": "58c9fdbf-de49-4141-83fa-9ad83f78591c",
+    "missing": false
+  },
+  "C:\\Users\\ASUS\\MindYourStep_1\\assets\\cocos\\animations\\cocos_anim_walk.gltf": {
+    "time": 1652333685926.2385,
+    "uuid": "b1cb32e6-c8c9-40c9-9d52-119dae416b32",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\Annimation": {
+    "time": 1670314488100.561,
+    "uuid": "c02a1417-98b3-4961-aef7-2f6bc682a75b",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos": {
+    "time": 1670314488256.8088,
+    "uuid": "6338d8e2-40d0-4ea2-91e8-7589a91201ff",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\Prefebs": {
+    "time": 1670314488459.853,
+    "uuid": "e45c3943-8269-41af-89dc-29fcf1b04f92",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\Scene": {
+    "time": 1670314488475.4736,
+    "uuid": "d9fce95a-03ed-4181-b503-2dfc1542f15c",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\Script": {
+    "time": 1670314488491.0947,
+    "uuid": "6d25437a-46c1-42dd-8d0b-59e245f3aa3f",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\Annimation\\oneStep.anim": {
+    "time": 1652332103551.5674,
+    "uuid": "0291a4d5-70ad-4198-a0db-236f00f0a7ef",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\Annimation\\twoStep.anim": {
+    "time": 1652331733961.522,
+    "uuid": "297fdab2-c424-4430-88f4-a51d78424701",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations": {
+    "time": 1670314488444.23,
+    "uuid": "75b08e51-53d1-4bca-b3de-ad7713d25d2c",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\body.mtl": {
+    "time": 1652333719205.4575,
+    "uuid": "58cf3db3-e6f4-4943-a076-26157912429c",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\Cocos.prefab": {
+    "time": 1652333719399.936,
+    "uuid": "6cd4e8c1-b63f-4bbb-b3db-b323fa08b435",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocosfinish_01.bin": {
+    "time": 1652333684868.3926,
+    "uuid": "b3df5b21-2fe6-410e-a10d-3df317e61bb5",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocosfinish_01_baseColor.png": {
+    "time": 1652333684906.2515,
+    "uuid": "5f4dd798-2ae6-4bbf-84b4-504bb6cceaed",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocosfinish_01_emissive.png": {
+    "time": 1652333684936.2014,
+    "uuid": "026c4a15-e07d-4053-86de-9f9fe30188e5",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocosfinish_01_normal.png": {
+    "time": 1652333684979.0984,
+    "uuid": "3af9be2f-93d2-41a0-b7b7-3cc03054b34a",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocosfinish_01_occlusionRoughnessMetallic.png": {
+    "time": 1652333685019.3035,
+    "uuid": "64b1edbd-75c7-4159-a65a-f1e6d8c9812a",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocosfinish_02.bin": {
+    "time": 1652333685051.2798,
+    "uuid": "dcab7d1f-201e-45d8-911c-833cc5427723",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocosfinish_02_baseColor.png": {
+    "time": 1652333685084.1958,
+    "uuid": "8949c1f1-9b2b-418c-b150-611a94543416",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocosfinish_02_normal.png": {
+    "time": 1652333685143.0374,
+    "uuid": "19819162-ce3f-4f7c-8889-8b2f35bf274c",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocosfinish_02_occlusionRoughnessMetallic.png": {
+    "time": 1652333685195.262,
+    "uuid": "cd618de5-59fc-4899-ba4f-55195f3e24ce",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocos_mesh.gltf": {
+    "time": 1652333684699.755,
+    "uuid": "5bee9f0c-9771-4e73-b0ea-0bbb6da67698",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocos_mesh_helmet.gltf": {
+    "time": 1652333684733.6907,
+    "uuid": "fb9825a0-fd7f-48c5-b121-9af90f9f2011",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocos_skel.gltf": {
+    "time": 1652333684768.7405,
+    "uuid": "90f86573-5baf-41e2-97db-8604d1f42b65",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocos_skel_ibm.bin": {
+    "time": 1652333684799.2424,
+    "uuid": "8d2d3098-6841-41fc-af7f-4bac9e32b080",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocos_squat_anim.bin": {
+    "time": 1652333684834.4602,
+    "uuid": "b9ab6374-4e67-4db2-bb75-0256c62f6c7b",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\helmet.mtl": {
+    "time": 1652333718970.8208,
+    "uuid": "7e81a899-6c7c-493d-80cf-e4f730e4f48f",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\Prefebs\\Cube.prefab": {
+    "time": 1652271668365.7493,
+    "uuid": "07d66d21-90ae-422f-baeb-9fd621e83cd6",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\Scene\\newscene.scene": {
+    "time": 1652270442468.9336,
+    "uuid": "217dfd74-9e17-4396-8416-7aa6bf033204",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\Scene\\Scene1.scene": {
+    "time": 1670314081010.3867,
+    "uuid": "35174472-cccc-4db0-853a-704af66755d4",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\Script\\GameManager.ts": {
+    "time": 1652337070855.0095,
+    "uuid": "1a62ac46-afd9-40f0-9aa2-9ff4bd0139f3",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\Script\\PlayerController.ts": {
+    "time": 1652332401695.6096,
+    "uuid": "1f7d1ae7-8420-4474-ac84-772146be6ae5",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_attack.bin": {
+    "time": 1652333685271.5854,
+    "uuid": "73443895-6d8f-41b5-8e3f-4110d0f4dc31",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_attack.gltf": {
+    "time": 1652333685309.896,
+    "uuid": "a873a742-b503-4a96-8570-6fe542697035",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_die.bin": {
+    "time": 1652333685345.6711,
+    "uuid": "d1a7cd09-b5d9-422f-a4f3-112d85f1059c",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_die.gltf": {
+    "time": 1652333685383.426,
+    "uuid": "caf172df-03b7-4c5a-8a53-93f3e4be5146",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_down.bin": {
+    "time": 1652333685421.3254,
+    "uuid": "fe407fd3-1b9c-4fb7-9a97-edb4cdae6314",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_down.gltf": {
+    "time": 1652333685455.2354,
+    "uuid": "27ac412c-9efa-4ead-8e2c-fe6533c7878f",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_hurt.bin": {
+    "time": 1652333685485.5757,
+    "uuid": "a1efb6ff-ef74-4037-8801-d310eca22fd5",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_hurt.gltf": {
+    "time": 1652333685521.306,
+    "uuid": "cb2cc463-6e7a-4d17-9247-bea8f3cf7bb1",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_idle.bin": {
+    "time": 1652333685554.2415,
+    "uuid": "e9d41da7-da95-4119-8a6c-0937de2adb57",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_idle.gltf": {
+    "time": 1652333685588.1497,
+    "uuid": "445d5d9d-c56b-4528-bc90-c847357e5d94",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_jump.bin": {
+    "time": 1652333685621.0632,
+    "uuid": "33a7dcc9-4eed-4d49-baac-d190c3d2a157",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_jump.gltf": {
+    "time": 1652333685654.952,
+    "uuid": "501da3c5-f2d8-45f7-bc04-5130d58811ff",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_run.bin": {
+    "time": 1652333685686.1033,
+    "uuid": "f1d8a0c8-d2d8-473f-a769-803842978f68",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_run.gltf": {
+    "time": 1652333685719.346,
+    "uuid": "50735e20-7211-4e9c-b676-4d648cdc0cbb",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_shoot.bin": {
+    "time": 1652333685750.8887,
+    "uuid": "a9e047be-e87a-43d9-bbd5-1b3f5dbe2026",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_shoot.gltf": {
+    "time": 1652333685785.796,
+    "uuid": "1cf73293-3e10-49c1-bfa1-59daaadbd18b",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_squat.bin": {
+    "time": 1652333685817.7124,
+    "uuid": "7290f264-a898-4355-8041-8514dbd0051f",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_squat.gltf": {
+    "time": 1652333685860.502,
+    "uuid": "58c9fdbf-de49-4141-83fa-9ad83f78591c",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_walk.bin": {
+    "time": 1652333685892.327,
+    "uuid": "e08b2140-55f5-4d1f-af55-565183504a80",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_walk.gltf": {
+    "time": 1652333685926.2385,
+    "uuid": "b1cb32e6-c8c9-40c9-9d52-119dae416b32",
+    "missing": false
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\Annimation.meta": {
+    "time": 1652271139504.343
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos.meta": {
+    "time": 1652333718950.875
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\Prefebs.meta": {
+    "time": 1652271663441.2754
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\Scene.meta": {
+    "time": 1652270409141.8914
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\Script.meta": {
+    "time": 1652270744088.5977
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations.meta": {
+    "time": 1652333684648.0007
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\Annimation\\oneStep.anim.meta": {
+    "time": 1652332026305.799
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\body.mtl.meta": {
+    "time": 1652333719219.4192
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\Annimation\\twoStep.anim.meta": {
+    "time": 1652331672417.9014
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\Cocos.prefab.meta": {
+    "time": 1652333719419.884
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocosfinish_01.bin.meta": {
+    "time": 1652333719222.4119
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocosfinish_01_emissive.png.meta": {
+    "time": 1652333719399.936
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocosfinish_01_normal.png.meta": {
+    "time": 1652333719441.8252
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocosfinish_01_baseColor.png.meta": {
+    "time": 1652333719447.8086
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocosfinish_02.bin.meta": {
+    "time": 1652333718965.8347
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocosfinish_01_occlusionRoughnessMetallic.png.meta": {
+    "time": 1652333718987.775
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocosfinish_02_occlusionRoughnessMetallic.png.meta": {
+    "time": 1652333718996.7563
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocosfinish_02_baseColor.png.meta": {
+    "time": 1652333718986.7769
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocosfinish_02_normal.png.meta": {
+    "time": 1652333718991.7646
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocos_mesh_helmet.gltf.meta": {
+    "time": 1652333719479.7224
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\helmet.mtl.meta": {
+    "time": 1652333718997.7485
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocos_mesh.gltf.meta": {
+    "time": 1652333719445.8137
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocos_skel_ibm.bin.meta": {
+    "time": 1652333719461.7708
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocos_squat_anim.bin.meta": {
+    "time": 1652333719481.7188
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\Prefebs\\Cube.prefab.meta": {
+    "time": 1652271668367.7424
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\Script\\GameManager.ts.meta": {
+    "time": 1652271721423.7092
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\cocos_skel.gltf.meta": {
+    "time": 1652333719483.7134
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\Script\\PlayerController.ts.meta": {
+    "time": 1652270780380.5332
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\Scene\\newscene.scene.meta": {
+    "time": 1652270442475.3286
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\Scene\\Scene1.scene.meta": {
+    "time": 1652270525765.8318
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_die.bin.meta": {
+    "time": 1652333719525.6006
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_attack.bin.meta": {
+    "time": 1652333719488.6992
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_down.bin.meta": {
+    "time": 1652333719582.447
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_hurt.bin.meta": {
+    "time": 1652333719695.1472
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_attack.gltf.meta": {
+    "time": 1652333719694.1494
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_die.gltf.meta": {
+    "time": 1652333719729.0564
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_idle.bin.meta": {
+    "time": 1652333719762.965
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_hurt.gltf.meta": {
+    "time": 1652333719791.8882
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_jump.bin.meta": {
+    "time": 1652333719786.9006
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_down.gltf.meta": {
+    "time": 1652333719731.0508
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_run.bin.meta": {
+    "time": 1652333719846.7402
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_shoot.bin.meta": {
+    "time": 1652333719882.6448
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_idle.gltf.meta": {
+    "time": 1652333719885.6377
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_squat.bin.meta": {
+    "time": 1652333719966.42
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_run.gltf.meta": {
+    "time": 1652333719943.4832
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_jump.gltf.meta": {
+    "time": 1652333719919.546
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_walk.bin.meta": {
+    "time": 1652333719969.4138
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_shoot.gltf.meta": {
+    "time": 1652333720037.2307
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_squat.gltf.meta": {
+    "time": 1652333720048.202
+  },
+  "D:\\MyPersonalsProject\\MindYourStep\\assets\\cocos\\animations\\cocos_anim_walk.gltf.meta": {
+    "time": 1652333720088.095
+  }
+}
